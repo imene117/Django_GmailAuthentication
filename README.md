@@ -1,7 +1,7 @@
 # Django_GmailAuthentication
 User Registration in Django with Google OAuth
 Python 3.9
-Using Open Authorization (OAuth) to allows an app or website to share information with a website without creating other credentials.
+Using Open Authorization (OAuth) to allow an app or website to share information with a website without creating other credentials.
 This project was created with a virtual environment venv
 
 - Name of the project: oauth_project
